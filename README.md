@@ -31,8 +31,7 @@ Acionar alarme sonoro e LED quando o estresse estiver alto
 
 Enviar todos os dados para o ThingSpeak em tempo real
 
-# Tecnologias e Componentes
-## Hardware
+# Componentes
 
 ESP32
 
