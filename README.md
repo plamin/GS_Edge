@@ -2,13 +2,13 @@
 
 # Integrantes
 
-Clara Barboza Costa
-Pedro Henrique Lamin Rodrigues
-Tomás Antonio Braga Cantuária
+Clara Barboza Costa </br>
+Pedro Henrique Lamin Rodrigues</br>
+Tomás Antonio Braga Cantuária</br>
 
 # Links
 
-Thingspeak: https://thingspeak.mathworks.com/channels/3172040/private_show
+Thingspeak: https://thingspeak.mathworks.com/channels/3172040/private_show </br>
 Wokwi: https://wokwi.com/projects/447645612540498945
 
 # Descrição do problema
