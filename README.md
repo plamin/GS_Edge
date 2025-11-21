@@ -10,6 +10,8 @@ Tomás Antonio Braga Cantuária</br>
 
 Thingspeak: https://thingspeak.mathworks.com/channels/3172040/private_show </br>
 Wokwi: https://wokwi.com/projects/447645612540498945
+Vídeo:
+https://youtu.be/xgLjY3sWh98?feature=shared
 
 # Descrição do problema
 
